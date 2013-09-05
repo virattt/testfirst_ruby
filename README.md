@@ -1,4 +1,6 @@
-testfirst_ruby
+Test-First Ruby
 ==============
 
-my code for TestFirst Ruby. Completed Questions 0-12 and Question 14.
+My solutions for the Test-First Ruby problem sets. I worked on questions 0-12 and question 14.
+
+The questions are located at https://github.com/alexch/learn_ruby
